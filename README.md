@@ -8,6 +8,8 @@ Release date: 10 May 2016
 Development Tool: Game Maker 8 Pro
 
 # Screenshots
+![image](screenshot2.png?raw=true)
+
 ![image](screenshot1.png?raw=true)
 
 Download: https://github.com/3dproger/NumberX/releases
